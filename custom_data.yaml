@@ -1,0 +1,6 @@
+train: C:\Users\Hp\Desktop\S3\fst\deep learning\Projet\data_yolo\train
+val: C:\Users\Hp\Desktop\S3\fst\deep learning\Projet\data_yolo\val
+
+nc: 1
+
+names: ["face"]
